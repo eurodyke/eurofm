@@ -1,5 +1,5 @@
 # eurofm
-A Pure Data patch to frequence modulate any audio input
+A Pure Data patch to modulate the frequency of any audio input
 
 
 Features:
@@ -8,4 +8,4 @@ Features:
 - mod depth
 - mod offset
 
-Based on example patch G09.pitchshifter.pd, made together with Derek Holzer
+Based on example patch G09.pitchshifter.pd, made together with (well mostly by) Derek Holzer
